@@ -6,7 +6,6 @@
 Unicorn is a family-owned business in the E-commerce sector, offering a wide range of products across three main categories: technology, furniture, and office supplies. Although Unicorn has already collected substantial data, the data analysis (DA) team is in the process of expanding.
 
 ---
-<img width="513" alt="Screenshot 2025-02-04 at 19 17 01" src="https://github.com/user-attachments/assets/6f9e5135-2a2a-4566-96a3-11e75b59de20" />
 
 ## 🎯 **Objective**  
 The goal was to create an interactive dashboard that provides insights into sales, profits, and order trends for the time period 2015–2018. Users should be able to filter results by time period, region, and product. The project focused on structuring the data and assembling the relevant pieces to provide quick, valuable insights.
@@ -35,7 +34,8 @@ I designed an interactive dashboard offering an overview of several key performa
    - Applied conditional formatting to highlight opportunities for growth and underperforming regions.
 
 3. **Tableau Dashboard**  
-   - Built an interactive Tableau dashboard to present KPIs, trends, and actionable recommendations for business decision-making.  
+   - Built an interactive Tableau dashboard to present KPIs, trends, and actionable recommendations for business decision-making.
+<img width="580" alt="Screenshot 2025-02-04 at 19 17 01" src="https://github.com/user-attachments/assets/6f9e5135-2a2a-4566-96a3-11e75b59de20" />
 
 ---
 
