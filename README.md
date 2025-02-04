@@ -67,9 +67,9 @@ I designed an interactive dashboard offering an overview of several key performa
 ## 🔗 **Links**  
 
 - **Link to Tableau Dashboard:** [View Dashboard](https://public.tableau.com/app/discover)  
-- **Link to Google Sheets:** [View Spreadsheet](https://docs.google.com/spreadsheets/d/1jUyUQJ3oN0luzwC3SvZl_KKMN68UIXrywmv9UrJoj2Q/edit?usp=drive_link)  
-- **Link to SQL Documentation:** [View SQL Documentation](https://docs.google.com/document/d/1mklCXV1acWdbshrdcKiXsE_oAm2mdx-_aTIFUq5G4EU/edit?usp=drive_link)  
-- **Link to Presentation Video:** [Watch Video](https://drive.google.com/file/d/1KaeFSJ-NaVMhXFrX1a0_2Sh0SPwzQ2jK/view?usp=sharing)  
+- **Link to Google Sheets:** [View Spreadsheet](https://docs.google.com/)  
+- **Link to SQL Documentation:** [View SQL Documentation](https://docs.google.com/)  
+- **Link to Presentation Video:** [Watch Video](https://drive.google.com/)  
 
 ---
 
